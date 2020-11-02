@@ -1,0 +1,9 @@
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\bin\Debug\Shoppingcart.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\bin\Debug\Shoppingcart.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\bin\Debug\Catalog.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\bin\Debug\Catalog.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.csprojAssemblyReference.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.csproj.CoreCompileInputs.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.csproj.CopyComplete
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.pdb

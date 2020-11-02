@@ -1,0 +1,9 @@
+D:\TAP\AmazonOnline\ShoppingCart\bin\Debug\ShoppingCart.dll
+D:\TAP\AmazonOnline\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\TAP\AmazonOnline\ShoppingCart\bin\Debug\Catalog.dll
+D:\TAP\AmazonOnline\ShoppingCart\bin\Debug\Catalog.pdb
+D:\TAP\AmazonOnline\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+D:\TAP\AmazonOnline\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\TAP\AmazonOnline\ShoppingCart\obj\Debug\ShoppingCart.csproj.CopyComplete
+D:\TAP\AmazonOnline\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\TAP\AmazonOnline\ShoppingCart\obj\Debug\ShoppingCart.pdb

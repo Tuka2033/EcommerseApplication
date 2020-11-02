@@ -1,0 +1,6 @@
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\bin\Debug\GovertmentDelegate.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\bin\Debug\GovertmentDelegate.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.csprojAssemblyReference.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.csproj.CoreCompileInputs.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.pdb

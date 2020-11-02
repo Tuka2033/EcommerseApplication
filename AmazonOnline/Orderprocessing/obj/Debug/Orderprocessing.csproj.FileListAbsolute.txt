@@ -1,0 +1,13 @@
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\Orderprocessing.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\Orderprocessing.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\CRM.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\Shoppingcart.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\Catalog.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\CRM.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\Shoppingcart.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\bin\Debug\Catalog.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.csprojAssemblyReference.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.csproj.CoreCompileInputs.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.csproj.CopyComplete
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.pdb

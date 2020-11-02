@@ -1,0 +1,6 @@
+D:\TAP\AmazonOnline\CRM\bin\Debug\CRM.dll
+D:\TAP\AmazonOnline\CRM\bin\Debug\CRM.pdb
+D:\TAP\AmazonOnline\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+D:\TAP\AmazonOnline\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\TAP\AmazonOnline\CRM\obj\Debug\CRM.dll
+D:\TAP\AmazonOnline\CRM\obj\Debug\CRM.pdb

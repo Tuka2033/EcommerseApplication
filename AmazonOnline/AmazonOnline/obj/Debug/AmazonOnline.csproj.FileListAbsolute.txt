@@ -1,0 +1,64 @@
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\AmazonOnline.exe.config
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\AmazonOnline.exe
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\AmazonOnline.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.csprojAssemblyReference.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.csproj.CoreCompileInputs.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.exe
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Banking.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Catalog.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\CRM.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Membership.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Orderprocessing.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Shoppingcart.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Banking.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Catalog.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\CRM.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Membership.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Orderprocessing.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\Shoppingcart.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.csproj.CopyComplete
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\BankRule.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\GovertmentDelegate.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\HR.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\BankRule.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\GovertmentDelegate.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\HR.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\BLL.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\DAL.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\BLL.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\DAL.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\eCom.mdf
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\AmazonOnline\bin\Debug\eCom_log.ldf
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\eCom.mdf
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\eCom_log.ldf
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\AmazonOnline.exe.config
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\AmazonOnline.exe
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\AmazonOnline.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Banking.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\BankRule.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\BLL.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Catalog.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\CRM.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\DAL.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\GovertmentDelegate.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\HR.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Membership.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Orderprocessing.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Shoppingcart.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Banking.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\BankRule.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\BLL.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Catalog.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\CRM.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\DAL.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\GovertmentDelegate.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\HR.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Membership.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Orderprocessing.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\bin\Debug\Shoppingcart.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.csprojAssemblyReference.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.csproj.CoreCompileInputs.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.csproj.CopyComplete
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.exe
+D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\obj\Debug\AmazonOnline.pdb

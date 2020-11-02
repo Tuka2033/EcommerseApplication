@@ -1,0 +1,13 @@
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\OrderProcessing.dll
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\OrderProcessing.pdb
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\CRM.dll
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\ShoppingCart.dll
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\Catalog.dll
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\CRM.pdb
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\ShoppingCart.pdb
+D:\TAP\AmazonOnline\OrderProcessing\bin\Debug\Catalog.pdb
+D:\TAP\AmazonOnline\OrderProcessing\obj\Debug\OrderProcessing.csprojAssemblyReference.cache
+D:\TAP\AmazonOnline\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
+D:\TAP\AmazonOnline\OrderProcessing\obj\Debug\OrderProcessing.csproj.CopyComplete
+D:\TAP\AmazonOnline\OrderProcessing\obj\Debug\OrderProcessing.dll
+D:\TAP\AmazonOnline\OrderProcessing\obj\Debug\OrderProcessing.pdb

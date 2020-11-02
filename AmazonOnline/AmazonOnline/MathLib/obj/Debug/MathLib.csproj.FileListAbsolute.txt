@@ -1,0 +1,5 @@
+D:\TAP\AmazonOnline\MathLib\bin\Debug\MathLib.dll
+D:\TAP\AmazonOnline\MathLib\bin\Debug\MathLib.pdb
+D:\TAP\AmazonOnline\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+D:\TAP\AmazonOnline\MathLib\obj\Debug\MathLib.dll
+D:\TAP\AmazonOnline\MathLib\obj\Debug\MathLib.pdb

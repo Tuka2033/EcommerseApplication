@@ -1,0 +1,9 @@
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\bin\Debug\Membership.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\bin\Debug\Membership.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\bin\Debug\CRM.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\bin\Debug\CRM.pdb
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.csprojAssemblyReference.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.csproj.CopyComplete
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.dll
+D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.pdb

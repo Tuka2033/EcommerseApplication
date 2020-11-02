@@ -1,0 +1,9 @@
+D:\TAP\AmazonOnline\Membership\bin\Debug\Membership.dll
+D:\TAP\AmazonOnline\Membership\bin\Debug\Membership.pdb
+D:\TAP\AmazonOnline\Membership\bin\Debug\CRM.dll
+D:\TAP\AmazonOnline\Membership\bin\Debug\CRM.pdb
+D:\TAP\AmazonOnline\Membership\obj\Debug\Membership.csprojAssemblyReference.cache
+D:\TAP\AmazonOnline\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+D:\TAP\AmazonOnline\Membership\obj\Debug\Membership.csproj.CopyComplete
+D:\TAP\AmazonOnline\Membership\obj\Debug\Membership.dll
+D:\TAP\AmazonOnline\Membership\obj\Debug\Membership.pdb
