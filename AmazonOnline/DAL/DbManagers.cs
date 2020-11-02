@@ -14,7 +14,7 @@ namespace DAL
         {
             List<Product> allProducts = new List<Product>();
             IDbConnection con = new SqlConnection();
-            con.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\CDACAssignment\ASPNET\ASPDOTNET\AmazonOnline\AmazonOnline\eCom.mdf;Integrated Security=True";
+            con.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\AmazonOnline\eCom.mdf;Integrated Security=True";
             IDbCommand cmd = new SqlCommand();
             string query = "SELECT * FROM flowers";
             cmd.Connection = con;
