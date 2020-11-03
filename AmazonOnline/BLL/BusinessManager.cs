@@ -15,5 +15,10 @@ namespace BLL
             IEnumerable<Product> allProducts =DbManagers.GetAllProduct();
             return allProducts;
         }
+
+        public static Boolean Insert(Product theproduct)
+        {
+            return DbManagers.Insert(theproduct);
+        }
     }
 }

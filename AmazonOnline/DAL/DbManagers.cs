@@ -1,20 +1,20 @@
-﻿using System;
+﻿using Catalog;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-using Catalog;
+
 namespace DAL
 {
     public class DbManagers
     {
+       static String connectionstring = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\AmazonOnline\eCom.mdf;Integrated Security=True";
         public static IEnumerable<Product> GetAllProduct()
+        
         {
             List<Product> allProducts = new List<Product>();
             IDbConnection con = new SqlConnection();
-            con.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\AmazonOnline\eCom.mdf;Integrated Security=True";
+            con.ConnectionString = connectionstring;
             IDbCommand cmd = new SqlCommand();
             string query = "SELECT * FROM flowers";
             cmd.Connection = con;
@@ -59,6 +59,59 @@ namespace DAL
             }
             return allProducts;
         }
+
+
+        public static bool Insert(Product theProduct)
+        {
+            bool status = false;
+            try
+            {
+                IDbConnection con = new SqlConnection();
+                con.ConnectionString = connectionstring;
+                IDbCommand cmd = new SqlCommand();
+                string query = "Insert Into flowers(productID, title, description, price, quantity) VALUES (@Id, @Title, @Description, @Price, @Quantity)";
+                cmd.Connection = con;
+                cmd.CommandText = query;
+                cmd.Parameters.Add(new SqlParameter("@Id", theProduct.Id));
+                cmd.Parameters.Add(new SqlParameter("@Title", theProduct.Title));
+                cmd.Parameters.Add(new SqlParameter("@Description", theProduct.Description));
+                cmd.Parameters.Add(new SqlParameter("@Price", theProduct.UnitPrice));
+                cmd.Parameters.Add(new SqlParameter("@Quantity", theProduct.Quantity));
+                con.Open();
+                cmd.ExecuteNonQuery();
+                status = true;
+                if (con.State == ConnectionState.Open)
+                {
+                    con.Close();
+                }
+
+            }
+            catch (SqlException exp)
+            {
+                string message = exp.Message;
+            }
+            return status;
+        }
+    
+        public static bool update(Product theProduct)
+        {
+            bool status = false;
+            try
+            {
+                IDbConnection con = new SqlConnection();
+                con.ConnectionString = connectionstring;
+                IDbCommand cmd = new SqlCommand();
+                cmd.Connection = con;
+                String query="Update "
+
+            }
+            catch (SqlException exp)
+            {
+
+            }
+            return status;
+        }
     }
-}  
+
+}
 
