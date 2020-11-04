@@ -7,3 +7,12 @@ D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membe
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.csproj.CopyComplete
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.dll
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Membership\obj\Debug\Membership.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\bin\Debug\Membership.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\bin\Debug\Membership.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\bin\Debug\CRM.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\bin\Debug\CRM.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\obj\Debug\Membership.csprojAssemblyReference.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\obj\Debug\Membership.csproj.CopyComplete
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\obj\Debug\Membership.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Membership\obj\Debug\Membership.pdb

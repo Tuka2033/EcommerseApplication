@@ -11,3 +11,16 @@ D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.csproj.CopyComplete
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.dll
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\Orderprocessing.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\Orderprocessing.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\CRM.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\Shoppingcart.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\Catalog.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\CRM.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\Shoppingcart.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\bin\Debug\Catalog.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.csprojAssemblyReference.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.csproj.CoreCompileInputs.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.csproj.CopyComplete
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Orderprocessing\obj\Debug\Orderprocessing.pdb

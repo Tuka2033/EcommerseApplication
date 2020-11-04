@@ -21,8 +21,11 @@ namespace AmazonOnline
             //   // Console.WriteLine("Description = {0}", product.Description);
             //}
 
-            Product theProduct = new Product(1,"Rose","Flower",20,2000);
+            Product theProduct = new Product(5, "Rose", "Flower", 20, 2000);
             bool status = BusinessManager.Insert(theProduct);
+             //bool status = BusinessManager.Delete(71);
+            //Product theProduct = new Product(71, "Rose", "Flower", 20, 2000);
+            //bool status = BusinessManager.Update(theProduct);
             Console.ReadLine();
         }
     }

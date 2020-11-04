@@ -4,3 +4,8 @@ D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Deb
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.csproj.CoreCompileInputs.cache
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.dll
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\GovertmentDelegate\bin\Debug\GovertmentDelegate.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\GovertmentDelegate\bin\Debug\GovertmentDelegate.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.csproj.CoreCompileInputs.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\GovertmentDelegate\obj\Debug\GovertmentDelegate.pdb

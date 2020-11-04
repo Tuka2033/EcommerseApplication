@@ -4,3 +4,8 @@ D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\BankRule\obj\Debug\BankRul
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\BankRule\obj\Debug\BankRule.csproj.CoreCompileInputs.cache
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\BankRule\obj\Debug\BankRule.dll
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\BankRule\obj\Debug\BankRule.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\bin\Debug\BankRule.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\bin\Debug\BankRule.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\obj\Debug\BankRule.csproj.CoreCompileInputs.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\obj\Debug\BankRule.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\obj\Debug\BankRule.pdb

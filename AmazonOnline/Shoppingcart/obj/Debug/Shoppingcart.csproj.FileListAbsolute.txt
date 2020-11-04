@@ -7,3 +7,12 @@ D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Sho
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.csproj.CopyComplete
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.dll
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\bin\Debug\Shoppingcart.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\bin\Debug\Shoppingcart.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\bin\Debug\Catalog.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\bin\Debug\Catalog.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.csprojAssemblyReference.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.csproj.CoreCompileInputs.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.csproj.CopyComplete
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Shoppingcart\obj\Debug\Shoppingcart.pdb

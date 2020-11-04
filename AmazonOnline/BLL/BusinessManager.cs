@@ -1,24 +1,38 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Catalog;
 using DAL;
 namespace BLL
 {
-    public class BusinessManager
+    public static class BusinessManager
     {
         public static IEnumerable<Product> GetAllProducts()
         {
-
-            IEnumerable<Product> allProducts =DbManagers.GetAllProduct();
+            IconnectedServices mgr = new DbManagerConnected();
+            IEnumerable<Product> allProducts =mgr.GetAllProduct();
             return allProducts;
         }
 
         public static Boolean Insert(Product theproduct)
         {
-            return DbManagers.Insert(theproduct);
+            IconnectedServices mgr = new DbManagerConnected();
+            return mgr.Insert(theproduct);
+        }
+        public static Boolean Delete(int ProductId)
+        {
+            IconnectedServices mgr = new DbManagerConnected();
+            return mgr.Delete(ProductId);
+        }
+        public static Boolean Update(Product theProduct)
+        {
+            IconnectedServices mgr = new DbManagerConnected();
+            return mgr.update(theProduct);
+        }
+
+        public static Product GetProduct(int id)
+        {
+            IconnectedServices mgr = new DbManagerConnected();
+            return mgr.GetProductByID(id);
         }
     }
 }

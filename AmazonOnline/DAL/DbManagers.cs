@@ -102,12 +102,50 @@ namespace DAL
                 con.ConnectionString = connectionstring;
                 IDbCommand cmd = new SqlCommand();
                 cmd.Connection = con;
-                String query="Update "
+                String query= "UPDATE flowers SET title=@Title, description=@Description, price=@Price, quantity=@Quantity WHERE  productID=@Id";
+                cmd.CommandText = query;
+                cmd.Parameters.Add(new SqlParameter("@Id", theProduct.Id));
+                cmd.Parameters.Add(new SqlParameter("@Title", theProduct.Title));
+                cmd.Parameters.Add(new SqlParameter("@Description", theProduct.Description));
+                cmd.Parameters.Add(new SqlParameter("@Price", (int)theProduct.UnitPrice));
+                cmd.Parameters.Add(new SqlParameter("@Quantity", theProduct.Quantity));
 
+                con.Open();
+                cmd.ExecuteNonQuery();
+                status = true;
+                if (con.State == ConnectionState.Open)
+                    con.Close();
             }
             catch (SqlException exp)
             {
-
+                string message = exp.Message;
+            }
+            return status;
+        }
+       
+        public static bool Delete(int ProductId)
+        {
+            bool status = false;
+            try
+            {
+                IDbConnection con = new SqlConnection();
+                con.ConnectionString = connectionstring;
+                IDbCommand cmd = new SqlCommand();
+                string query = "Delete from flowers where ProductId=@Id";
+                cmd.Connection = con;
+                cmd.CommandText = query;
+                cmd.Parameters.Add(new SqlParameter("@Id", ProductId));
+                con.Open();
+                cmd.ExecuteNonQuery();
+                status = true;
+                if (con.State == ConnectionState.Open)
+                {
+                    con.Close();
+                }
+            }
+            catch (SqlException exp)
+            {
+                string message = exp.Message;
             }
             return status;
         }
