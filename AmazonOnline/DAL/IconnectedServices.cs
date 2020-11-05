@@ -7,8 +7,8 @@ namespace DAL
     {
         Product GetProductByID(int productID);
         IEnumerable<Product> GetAllProduct();
-        bool Insert(Product theProduct);
-        bool update(Product theProduct);
-        bool Delete(int productID);
+        bool insertProduct(Product theProduct);
+        bool updateProduct(Product theProduct);
+        bool deleteProduct(int productID);
     }
 }

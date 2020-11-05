@@ -107,7 +107,7 @@ namespace DAL
             return allProducts;
         }
        
-        bool IconnectedServices.Insert(Product theProduct)
+        bool IconnectedServices.insertProduct(Product theProduct)
         {
             bool status = false;
             try
@@ -139,7 +139,7 @@ namespace DAL
             return status;
         }
 
-        bool IconnectedServices.update(Product theProduct)
+        bool IconnectedServices.updateProduct(Product theProduct)
         {
             bool status = false;
             try
@@ -169,7 +169,7 @@ namespace DAL
             return status;
         }
 
-        bool IconnectedServices.Delete(int ProductId)
+        bool IconnectedServices.deleteProduct(int ProductId)
         {
             bool status = false;
             try

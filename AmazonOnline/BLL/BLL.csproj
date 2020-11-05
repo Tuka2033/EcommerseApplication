@@ -42,12 +42,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessManager.cs" />
+    <Compile Include="customerRelationshipmanager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Catalog\Catalog.csproj">
       <Project>{a8d08747-679a-4b6a-b238-5c8f1216aed9}</Project>
       <Name>Catalog</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CRM\CRM.csproj">
+      <Project>{f13c156c-cac0-4e9b-87ae-30fcf7cd5145}</Project>
+      <Name>CRM</Name>
     </ProjectReference>
     <ProjectReference Include="..\DAL\DAL.csproj">
       <Project>{817870ef-ff33-44f6-a5b9-09243ae237d6}</Project>

@@ -14,5 +14,13 @@ namespace eCommerse.Controllers
 
             return View();
         }
+        public ActionResult aboutUs()
+        {
+            return View();
+        }
+        public ActionResult Services()
+        {
+            return View();
+        }
     }
 }

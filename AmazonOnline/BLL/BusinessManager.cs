@@ -13,20 +13,20 @@ namespace BLL
             return allProducts;
         }
 
-        public static Boolean Insert(Product theproduct)
+        public static Boolean insertproduct(Product theproduct)
         {
             IconnectedServices mgr = new DbManagerConnected();
-            return mgr.Insert(theproduct);
+            return mgr.insertProduct(theproduct);
         }
-        public static Boolean Delete(int ProductId)
+        public static Boolean deleteproduct(int ProductId)
         {
             IconnectedServices mgr = new DbManagerConnected();
-            return mgr.Delete(ProductId);
+            return mgr.deleteProduct(ProductId);
         }
-        public static Boolean Update(Product theProduct)
+        public static Boolean updateproduct(Product theProduct)
         {
             IconnectedServices mgr = new DbManagerConnected();
-            return mgr.update(theProduct);
+            return mgr.updateProduct(theProduct);
         }
 
         public static Product GetProduct(int id)

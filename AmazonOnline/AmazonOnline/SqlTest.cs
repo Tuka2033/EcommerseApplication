@@ -22,10 +22,10 @@ namespace AmazonOnline
             //}
 
             Product theProduct = new Product(5, "Rose", "Flower", 20, 2000);
-            bool status = BusinessManager.Insert(theProduct);
-             //bool status = BusinessManager.Delete(71);
+            bool status = BusinessManager.insertproduct(theProduct);
+             //bool status = BusinessManager.deleteproduct(71);
             //Product theProduct = new Product(71, "Rose", "Flower", 20, 2000);
-            //bool status = BusinessManager.Update(theProduct);
+            //bool status = BusinessManager.updateproduct(theProduct);
             Console.ReadLine();
         }
     }

@@ -25,19 +25,19 @@ namespace eCommerse.Controllers
         // POST: api/product
         public void Post([FromBody]Product value)
         {
-            bool status = BusinessManager.Insert(value);
+            bool status = BusinessManager.insertproduct(value);
         }
 
         // PUT: api/product/5
         public void Put(int id, [FromBody]Product value)
         {
-            bool status = BusinessManager.Update(value);
+            bool status = BusinessManager.updateproduct(value);
         }
 
         // DELETE: api/product/5
         public void Delete(int id)
         {
-        bool status= BusinessManager.Delete(id);
+        bool status= BusinessManager.deleteproduct(id);
         }
     }
 }
