@@ -31,3 +31,5 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BLL\obj\Deb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BLL\obj\Debug\BLL.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BLL\obj\Debug\BLL.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BLL\bin\Debug\CRM.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BLL\bin\Debug\CRM.pdb

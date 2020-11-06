@@ -89,3 +89,5 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\o
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.csproj.CopyComplete
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\CRM.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\CRM.pdb

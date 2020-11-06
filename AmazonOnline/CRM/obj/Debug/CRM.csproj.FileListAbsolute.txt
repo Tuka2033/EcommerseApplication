@@ -8,3 +8,4 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\CRM\bin\Deb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\CRM\obj\Debug\CRM.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\CRM\obj\Debug\CRM.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\CRM\obj\Debug\CRM.csprojAssemblyReference.cache

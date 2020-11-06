@@ -1,0 +1,38 @@
+﻿@using CRM;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Customers</h2>
+</hr>
+<h3>Flowers to celebrate each momemt of life</h3>
+
+@{
+    IEnumerable<Customer> allCustomers = ViewBag.customer;
+    <table border="1" style="align-content:center">
+        <tr>
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Contact</th>
+            <th></th>
+        </tr>
+
+        @{ foreach (Customer theCustomer in allCustomers)
+            {
+                <tr>
+                    <td><span>@theCustomer.Id</span></td>
+                    <td><span>@theCustomer.Firstname</span></td>
+                    <td><span>@theCustomer.Lastname</span></td>
+                    <td><span>@theCustomer.Email</span></td>
+                    <td><span>@theCustomer.ContactNumber</span></td>
+                    <td><a href="~/customer/details/@theCustomer.Id"> Details >></a></td>
+                </tr>
+                }
+            }
+
+    </table>
+
+
+}

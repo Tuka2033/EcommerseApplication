@@ -12,6 +12,120 @@ namespace DAL
     {
         String connectionstring = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\AmazonOnline\eCom.mdf;Integrated Security=True";
 
+        IEnumerable<Customer> Icustomer.GetAllCustomer()
+
+        {
+            List<Customer> allCustomer = new List<Customer>();
+            IDbConnection con = new SqlConnection();
+            con.ConnectionString = connectionstring;
+            IDbCommand cmd = new SqlCommand();
+            string query = "SELECT * FROM customers";
+            cmd.Connection = con;
+            cmd.CommandText = query;
+            IDataReader reader = null;
+
+            try
+            {
+                con.Open();
+                reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int id = int.Parse(reader["customerID"].ToString());
+                    string firstName = reader["firstName"].ToString();
+                    string lastName = reader["lastName"].ToString();
+                    string email = reader["email"].ToString();
+                    string contactNumber = reader["contact"].ToString();
+                    string fax = reader["fax"].ToString();
+                    DateTime date = DateTime.Parse(reader["registrationDate"].ToString());
+                    string zip = reader["zip"].ToString();
+                    string state = reader["state"].ToString();
+                    string address = reader["Address"].ToString();
+                    Customer theCustomer = new Customer
+                    {
+                    Id = id,
+                    Firstname = firstName,
+                    Lastname = lastName,
+                    Email = email,
+                    ContactNumber = contactNumber,
+                    Fax = fax,
+                    Registrationdate = date,
+                    Address = address,
+                    Zip = zip,
+                    State = state,
+                };
+                    allCustomer.Add(theCustomer);
+                }
+                reader.Close();
+            }
+            catch (SqlException exp)
+            {
+                string message = exp.Message;
+            }
+
+            finally
+            {
+                if (con.State == ConnectionState.Open)
+                {
+                    con.Close();
+                }
+            }
+            return allCustomer;
+        }
+
+        Customer Icustomer.GetCustomerByID(int customerID)
+        {
+
+           Customer theCustomer = null;
+            try
+            {
+                using (IDbConnection con = new SqlConnection())
+                {
+                    con.ConnectionString = connectionstring;
+                    IDbCommand cmd = new SqlCommand();
+                    cmd.Connection = con;
+                    string query = "SELECT * FROM customers WHERE  customerID=@Id";
+                    cmd.CommandText = query;
+                    cmd.Parameters.Add(new SqlParameter("@Id", customerID));
+                    con.Open();
+                    IDataReader reader = cmd.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        int id = int.Parse(reader["customerID"].ToString());
+                        string firstName = reader["firstName"].ToString();
+                        string lastName = reader["lastName"].ToString();
+                        string email = reader["email"].ToString();
+                       string contactNumber = reader["contact"].ToString();
+                        string fax = reader["fax"].ToString();
+                        DateTime date = DateTime.Parse(reader["registrationDate"].ToString());
+                        string zip = reader["zip"].ToString();
+                        string state = reader["state"].ToString();
+                        string address = reader["Address"].ToString();
+                        theCustomer = new Customer
+                        {
+                            Id = id,
+                            Firstname = firstName,
+                            Lastname = lastName,
+                            Email = email,
+                            ContactNumber = contactNumber,
+                            Fax = fax,
+                            Registrationdate = date,
+                            Address = address,
+                            Zip = zip,
+                            State = state,
+                        };
+                    }
+                    if (con.State == ConnectionState.Open)
+                        con.Close();
+                }
+            }
+            catch (SqlException exp)
+            {
+                string message = exp.Message;
+            }
+            return theCustomer;
+
+        }
+      
         public bool deleteCustomer(int id)
         {
             bool status = false;

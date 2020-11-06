@@ -156,6 +156,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\CatalogController.cs" />
+    <Compile Include="Controllers\customerController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\productController.cs" />
     <Compile Include="Controllers\ShoppingCartController.cs" />
@@ -174,6 +175,86 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Images\flowers\Carnation\Beautifulreminder.jpg" />
+    <Content Include="Images\flowers\Carnation\Beautyofred.jpg" />
+    <Content Include="Images\flowers\Carnation\Colourfulsplash.jpg" />
+    <Content Include="Images\flowers\Carnation\Deepsetredcarnations.jpg" />
+    <Content Include="Images\flowers\Carnation\Dozencarnations.jpg" />
+    <Content Include="Images\flowers\Carnation\Dozenpinkcarnations.jpg" />
+    <Content Include="Images\flowers\Carnation\expressivegerberas.jpg" />
+    <Content Include="Images\flowers\Carnation\gerberaspunch.jpeg" />
+    <Content Include="Images\flowers\Carnation\gleamingbunch.jpg" />
+    <Content Include="Images\flowers\Carnation\happybunch.jpg" />
+    <Content Include="Images\flowers\Carnation\happygerbera.jpg" />
+    <Content Include="Images\flowers\Carnation\hellobeutifull.jpg" />
+    <Content Include="Images\flowers\Carnation\Holidaycarnitions.jpg" />
+    <Content Include="Images\flowers\Carnation\Inlovecarnations.jpg" />
+    <Content Include="Images\flowers\Carnation\Ipressivegerberas.jpg" />
+    <Content Include="Images\flowers\Carnation\joyfulgerberas.jpg" />
+    <Content Include="Images\flowers\Carnation\loveinpink.jpeg" />
+    <Content Include="Images\flowers\Carnation\Loveofcarnations.jpg" />
+    <Content Include="Images\flowers\Carnation\Mugofhappiness.jpg" />
+    <Content Include="Images\flowers\Carnation\Newbeginnings.jpg" />
+    <Content Include="Images\flowers\Carnation\Peacefullyenergetic.jpg" />
+    <Content Include="Images\flowers\Gerbera\brightsunshine.jpg" />
+    <Content Include="Images\flowers\Gerbera\cheerfuleight.jpg" />
+    <Content Include="Images\flowers\Gerbera\colourfulgerberas.jpg" />
+    <Content Include="Images\flowers\Gerbera\expressivegerberas.jpg" />
+    <Content Include="Images\flowers\Gerbera\gerberaspunch.jpeg" />
+    <Content Include="Images\flowers\Gerbera\gleamingbunch.jpg" />
+    <Content Include="Images\flowers\Gerbera\happybunch.jpg" />
+    <Content Include="Images\flowers\Gerbera\happygerbera.jpg" />
+    <Content Include="Images\flowers\Gerbera\Ipressivegerberas.jpg" />
+    <Content Include="Images\flowers\Gerbera\joyfulgerberas.jpg" />
+    <Content Include="Images\flowers\Gerbera\loveinpink.jpeg" />
+    <Content Include="Images\flowers\Gerbera\orangehappygerberas.jpg" />
+    <Content Include="Images\flowers\Gerbera\pinkbreeze.jpg" />
+    <Content Include="Images\flowers\Gerbera\pinkgerbera.jpg" />
+    <Content Include="Images\flowers\Gerbera\pinkwrap.jpg" />
+    <Content Include="Images\flowers\Gerbera\summerfreshwhite.jpg" />
+    <Content Include="Images\flowers\Gerbera\sunnybeauties.jpg" />
+    <Content Include="Images\flowers\Gerbera\sunshinegerberas.jpeg" />
+    <Content Include="Images\flowers\Lily\7AsiaticLilies.jpg" />
+    <Content Include="Images\flowers\Lily\BreathofFreshLilies.jpg" />
+    <Content Include="Images\flowers\Lily\BudsofPositivity.jpg" />
+    <Content Include="Images\flowers\Lily\FantasticLilies.jpg" />
+    <Content Include="Images\flowers\Lily\HolyBeauties.jpg" />
+    <Content Include="Images\flowers\Lily\NaturalBeauty.jpg" />
+    <Content Include="Images\flowers\Lily\PinkLilies.jpg" />
+    <Content Include="Images\flowers\Lily\PinkLilyPosy.jpg" />
+    <Content Include="Images\flowers\Lily\RomanceOfLilies.jpg" />
+    <Content Include="Images\flowers\Lily\RoyalLilies.jpeg" />
+    <Content Include="Images\flowers\Lily\ShiningLilies.jpg" />
+    <Content Include="Images\flowers\Lily\StarLilies.jpg" />
+    <Content Include="Images\flowers\Lily\SunshineLilies.jpg" />
+    <Content Include="Images\flowers\Lily\WhiteLilyLove.jpg" />
+    <Content Include="Images\flowers\Lily\YellowLilies8XL.jpg" />
+    <Content Include="Images\flowers\Lily\YellowPinkLilies.jpg" />
+    <Content Include="Images\flowers\Orchid\DeluxeOrchids.jpg" />
+    <Content Include="Images\flowers\Orchid\LoveofOrchids.jpg" />
+    <Content Include="Images\flowers\Orchid\NobleOrchids.jpg" />
+    <Content Include="Images\flowers\Orchid\OrchidBreeze.jpg" />
+    <Content Include="Images\flowers\Orchid\OrchidJumbo.jpg" />
+    <Content Include="Images\flowers\Orchid\OrchidTime.jpg" />
+    <Content Include="Images\flowers\Orchid\PurpleAdmiration.jpg" />
+    <Content Include="Images\flowers\Orchid\QueensSpecial.jpg" />
+    <Content Include="Images\flowers\Orchid\RoyalBlue.jpg" />
+    <Content Include="Images\flowers\Orchid\True Queen.jpg" />
+    <Content Include="Images\flowers\Orchid\VictorianSurprise.jpg" />
+    <Content Include="Images\flowers\Orchid\WinterOrchids.jpg" />
+    <Content Include="Images\flowers\Rose\ADozenYellowRoses .jpg" />
+    <Content Include="Images\flowers\Rose\Basketperfect.jpg" />
+    <Content Include="Images\flowers\Rose\classyRoses.jpg" />
+    <Content Include="Images\flowers\Rose\EnchantedRoses.jpg" />
+    <Content Include="Images\flowers\Rose\passionofrose.jpg" />
+    <Content Include="Images\flowers\Rose\Peach.jpg" />
+    <Content Include="Images\flowers\Rose\RedRose.jpg" />
+    <Content Include="Images\flowers\Rose\RoseCorsage.jpg" />
+    <Content Include="Images\flowers\Rose\Rosemail.jpg" />
+    <Content Include="Images\flowers\Rose\sunnyroses.jpg" />
+    <Content Include="Images\flowers\Rose\vibrantRoses.jpg" />
+    <Content Include="Images\flowers\Rose\vivid roses.jpg" />
+    <Content Include="Images\flowers\Rose\White.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
@@ -220,6 +301,8 @@
     <Content Include="Views\Catalog\Details.cshtml" />
     <Content Include="Views\Catalog\index.cshtml" />
     <Content Include="Views\ShoppingCart\index.cshtml" />
+    <Content Include="Views\customer\Index.cshtml" />
+    <Content Include="Views\customer\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -262,6 +345,10 @@
     <ProjectReference Include="..\Catalog\Catalog.csproj">
       <Project>{a8d08747-679a-4b6a-b238-5c8f1216aed9}</Project>
       <Name>Catalog</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CRM\CRM.csproj">
+      <Project>{f13c156c-cac0-4e9b-87ae-30fcf7cd5145}</Project>
+      <Name>CRM</Name>
     </ProjectReference>
     <ProjectReference Include="..\DAL\DAL.csproj">
       <Project>{817870ef-ff33-44f6-a5b9-09243ae237d6}</Project>

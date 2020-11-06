@@ -25,3 +25,5 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\DAL\obj\Deb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\DAL\obj\Debug\DAL.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\DAL\obj\Debug\DAL.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\DAL\bin\Debug\CRM.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\DAL\bin\Debug\CRM.pdb

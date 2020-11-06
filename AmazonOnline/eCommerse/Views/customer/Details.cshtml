@@ -1,0 +1,31 @@
+﻿@using CRM;
+@{
+    ViewBag.Title = "Details";
+}
+
+@{
+    Customer theCustomer = ViewBag.customer;
+
+    <b> Welcome to Transflower</b>
+    <hr />
+    <span><b>ID:</b>@theCustomer.Id</span>
+    <br />
+    <span><b>First Name:</b>@theCustomer.Firstname</span>
+    <br />
+    <span><b>Last Name:</b>@theCustomer.Lastname</span>
+    <br />
+    <span><b>Email:</b>@theCustomer.Email</span>
+    <br />
+    <span><b>Contact:</b>@theCustomer.ContactNumber</span>
+    <br />
+    <span><b>Fax</b>@theCustomer.Fax</span>
+    <br />
+    <span><b>Address:</b>@theCustomer.Address</span>
+    <br />
+    <span><b>Zip:</b>@theCustomer.Zip</span>
+    <br />
+    <span><b>State:</b>@theCustomer.State</span>
+    <br />
+    <span><b>Registration Date:</b>@theCustomer.Registrationdate</span>
+    <br />
+}

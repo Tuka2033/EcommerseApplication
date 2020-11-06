@@ -33,14 +33,15 @@ namespace DAL
                         string description = reader["description"].ToString();
                         int unitPrice = int.Parse(reader["price"].ToString());
                         int quantity = int.Parse(reader["quantity"].ToString());
-
+                        string imagUrl = reader["picture"].ToString();
                         theProduct = new Product
                         {
                             Id= id,
                             Title = title,
                             Description = description,
                             UnitPrice = unitPrice,
-                            Quantity = quantity
+                            Quantity = quantity,
+                            ImageUrl=imagUrl
                         };
                     }
 
@@ -79,6 +80,7 @@ namespace DAL
                     string description = reader["description"].ToString();
                     int unitPrice = int.Parse(reader["price"].ToString());
                     int quantity = int.Parse(reader["quantity"].ToString());
+                    string imagUrl = reader["picture"].ToString();
 
                     Product theProduct = new Product
                     {
@@ -86,7 +88,8 @@ namespace DAL
                         Title = title,
                         Description = description,
                         UnitPrice = unitPrice,
-                        Quantity = quantity
+                        Quantity = quantity,
+                        ImageUrl = imagUrl
                     };
                     allProducts.Add(theProduct);
                 }
@@ -115,7 +118,7 @@ namespace DAL
                 IDbConnection con = new SqlConnection();
                 con.ConnectionString = connectionstring;
                 IDbCommand cmd = new SqlCommand();
-                string query = "Insert Into flowers(productID, title, description, price, quantity) VALUES (@Id, @Title, @Description, @Price, @Quantity)";
+                string query = "Insert Into flowers(productID, title, description, price, quantity,picture) VALUES (@Id, @Title, @Description, @Price, @Quantity,@ImagUrl)";
                 cmd.Connection = con;
                 cmd.CommandText = query;
                 cmd.Parameters.Add(new SqlParameter("@Id", theProduct.Id));
@@ -123,6 +126,7 @@ namespace DAL
                 cmd.Parameters.Add(new SqlParameter("@Description", theProduct.Description));
                 cmd.Parameters.Add(new SqlParameter("@Price", theProduct.UnitPrice));
                 cmd.Parameters.Add(new SqlParameter("@Quantity", theProduct.Quantity));
+                cmd.Parameters.Add(new SqlParameter("@ImagUrl", theProduct.ImageUrl));
                 con.Open();
                 cmd.ExecuteNonQuery();
                 status = true;
@@ -148,14 +152,14 @@ namespace DAL
                 con.ConnectionString = connectionstring;
                 IDbCommand cmd = new SqlCommand();
                 cmd.Connection = con;
-                String query = "UPDATE flowers SET title=@Title, description=@Description, price=@Price, quantity=@Quantity WHERE  productID=@Id";
+                String query = "UPDATE flowers SET title=@Title, description=@Description, price=@Price, quantity=@Quantity,picture=@ImagUrl WHERE  productID=@Id";
                 cmd.CommandText = query;
                 cmd.Parameters.Add(new SqlParameter("@Id", theProduct.Id));
                 cmd.Parameters.Add(new SqlParameter("@Title", theProduct.Title));
                 cmd.Parameters.Add(new SqlParameter("@Description", theProduct.Description));
                 cmd.Parameters.Add(new SqlParameter("@Price", (int)theProduct.UnitPrice));
                 cmd.Parameters.Add(new SqlParameter("@Quantity", theProduct.Quantity));
-
+                cmd.Parameters.Add(new SqlParameter("@ImagUrl", theProduct.ImageUrl));
                 con.Open();
                 cmd.ExecuteNonQuery();
                 status = true;

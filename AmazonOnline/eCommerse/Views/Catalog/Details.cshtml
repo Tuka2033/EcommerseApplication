@@ -1,7 +1,23 @@
 ﻿
+@using Catalog;
 @{
     ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
+<h2>Flower Details</h2>
 
+@{
+    Product theProduct = ViewBag.product;
+
+    <img src="@theProduct.ImageUrl" width="100" height="100" />
+    <br />
+    <p> Title:@theProduct.Title</p>
+    <p> Description:@theProduct.Description</p>
+
+    <p> UnitPrice:@theProduct.UnitPrice</p>
+    <p> Quantity:@theProduct.Quantity</p>
+
+    <hr />
+    <a href="">Add to Cart</a>
+
+}

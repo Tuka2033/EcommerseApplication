@@ -5,18 +5,18 @@ namespace CRM
 {
     public class Customer
     {
-        public int Id { get; }
+        public int Id { get; set; }
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public string Email { get; set; }
-        public int ContactNumber { get; set; }
+        public string ContactNumber { get; set; }
         public string Address { get; set; }
         public DateTime Registrationdate { get; set; }
         public string Fax { get; set; }
         public string State { get; set; }
         public string Zip { get; set; }
         public Customer() { }
-        public Customer(int id,string firstName, string lastName,string email,int contactNumber, string fax, DateTime date,string address, string zip,string state)
+        public Customer(int id,string firstName, string lastName,string email,string contactNumber, string fax, DateTime date,string address, string zip,string state)
         {
             this.Id = id;
             this.Firstname = firstName;
