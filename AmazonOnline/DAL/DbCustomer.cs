@@ -52,7 +52,7 @@ namespace DAL
                     Address = address,
                     Zip = zip,
                     State = state,
-                };
+                    };
                     allCustomer.Add(theCustomer);
                 }
                 reader.Close();
@@ -126,7 +126,7 @@ namespace DAL
 
         }
       
-        public bool deleteCustomer(int id)
+        bool Icustomer.deleteCustomer(int id)
         {
             bool status = false;
             try
@@ -153,7 +153,7 @@ namespace DAL
             return status;
         }
 
-        public bool insertCustomer(Customer theCustomer)
+        bool Icustomer.insertCustomer(Customer theCustomer)
         {
             bool status = false;
             try
@@ -161,7 +161,7 @@ namespace DAL
                 IDbConnection con = new SqlConnection();
                 con.ConnectionString = connectionstring;
                 IDbCommand cmd = new SqlCommand();
-                string query = "Insert Into customers(customerID, firstName,lastName, email,contact,registrationDate,fax,state,zip,Address) VALUES (@customerid, @firstname,@lastname, @email,@contact,@registrationdate,@fax,@state,@zip,@Address)";
+                string query = "Insert Into customers(customerID, firstName,lastName, email,contact,registrationDate,fax,state,zip,Address,userName,password) VALUES (@customerid, @firstname,@lastname, @email,@contact,@registrationdate,@fax,@state,@zip,@Address,@username,@password)";
                 cmd.Connection = con;
                 cmd.CommandText = query;
                 cmd.Parameters.Add(new SqlParameter("@customerid", theCustomer.Id));
@@ -174,6 +174,8 @@ namespace DAL
                 cmd.Parameters.Add(new SqlParameter("@Address", theCustomer.Address));
                 cmd.Parameters.Add(new SqlParameter("@zip", theCustomer.Zip));
                 cmd.Parameters.Add(new SqlParameter("@state", theCustomer.State));
+                cmd.Parameters.Add(new SqlParameter("@username", theCustomer.UserName));
+                cmd.Parameters.Add(new SqlParameter("@password", theCustomer.Password));
                 con.Open();
                 cmd.ExecuteNonQuery();
                 status = true;
@@ -190,7 +192,7 @@ namespace DAL
             return status;
         }
 
-        public bool updateCustomer(Customer theCustomer)
+       bool Icustomer.updateCustomer(Customer theCustomer)
         {
             bool status = false;
             try
@@ -219,6 +221,42 @@ namespace DAL
                     con.Close();
                 }
 
+            }
+            catch (SqlException exp)
+            {
+                string message = exp.Message;
+            }
+            return status;
+        }
+
+        bool Icustomer.Validate(string username,string password)
+        {
+            bool status = false;
+            try
+            {
+                using (IDbConnection con = new SqlConnection())
+                {
+                    con.ConnectionString = connectionstring;
+                    IDbCommand cmd = new SqlCommand();
+                    cmd.Connection = con;
+                    string query = "SELECT * FROM customers WHERE  userName=@username";
+                    cmd.CommandText = query;
+                    cmd.Parameters.Add(new SqlParameter("@username", username));
+                    con.Open();
+                    IDataReader reader = cmd.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        string uid = reader["userName"].ToString();
+                        string pwd = reader["password"].ToString();
+                    
+                    if ((username == uid) &&(password == pwd))
+                    {
+                        status = true;
+                    }
+                    }
+                    if (con.State == ConnectionState.Open)
+                        con.Close();
+                }
             }
             catch (SqlException exp)
             {

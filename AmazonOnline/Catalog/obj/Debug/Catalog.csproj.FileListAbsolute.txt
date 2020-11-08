@@ -6,6 +6,7 @@ D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Catalog\obj\Debug\Catalog.
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\Catalog\obj\Debug\Catalog.csprojAssemblyReference.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Catalog\bin\Debug\Catalog.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Catalog\bin\Debug\Catalog.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Catalog\obj\Debug\Catalog.csprojAssemblyReference.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Catalog\obj\Debug\Catalog.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\Catalog\obj\Debug\Catalog.pdb

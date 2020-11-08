@@ -6,6 +6,7 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using ShoppingCart;
 
 namespace eCommerse
 {
@@ -18,6 +19,24 @@ namespace eCommerse
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+        }
+
+        protected void Application_End()
+        {
+
+        }
+        protected void Session_Start()
+        {
+            Cart theCart = new Cart();
+            this.Session.Add("cart", theCart);
+        }
+        protected void Session_End()
+        {
+            this.Session.Clear();
+        }
+        protected void Application_Error()
+        {
+            //Global level error handling
         }
     }
 }

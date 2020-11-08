@@ -9,4 +9,3 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\bi
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\obj\Debug\BankRule.csproj.CoreCompileInputs.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\obj\Debug\BankRule.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\obj\Debug\BankRule.pdb
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BankRule\obj\Debug\BankRule.csprojAssemblyReference.cache

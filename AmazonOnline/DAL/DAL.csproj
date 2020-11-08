@@ -41,13 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CatalogDisconnected.cs" />
     <Compile Include="DbCustomer.cs" />
     <Compile Include="DbManagerConnected.cs" />
+    <Compile Include="Dborder.cs" />
     <Compile Include="IconnectedServices.cs" />
     <Compile Include="Icustomer.cs" />
+    <Compile Include="Iorder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Banking\Banking.csproj">
+      <Project>{49a59019-286b-42f8-a33e-eca53d7ff845}</Project>
+      <Name>Banking</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Catalog\Catalog.csproj">
       <Project>{a8d08747-679a-4b6a-b238-5c8f1216aed9}</Project>
       <Name>Catalog</Name>
@@ -55,6 +62,14 @@
     <ProjectReference Include="..\CRM\CRM.csproj">
       <Project>{f13c156c-cac0-4e9b-87ae-30fcf7cd5145}</Project>
       <Name>CRM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Orderprocessing\Orderprocessing.csproj">
+      <Project>{38e5c652-fb2d-46f9-951e-177c81675172}</Project>
+      <Name>Orderprocessing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Shoppingcart\Shoppingcart.csproj">
+      <Project>{30e5463f-aa68-462b-a12b-f46b834ca4c1}</Project>
+      <Name>Shoppingcart</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

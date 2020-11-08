@@ -1,0 +1,6 @@
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BOL\bin\Debug\BOL.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BOL\bin\Debug\BOL.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BOL\obj\Debug\BOL.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\BOL\obj\Debug\BOL.pdb

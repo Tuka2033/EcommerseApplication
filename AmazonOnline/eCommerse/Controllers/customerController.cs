@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using CRM;
-using BLL;
+using Membership;
 namespace eCommerse.Controllers
 {
     public class customerController : Controller

@@ -1,6 +1,5 @@
 ﻿
 using System.Collections.Generic;
-
 namespace OrderProcessing
 {
    public class orderDeliveryManager
@@ -45,9 +44,10 @@ namespace OrderProcessing
         {
             orders.Remove(order);
         }
-        public List<Order> getAll()
+
+        public static IEnumerable<Order> getAll()
         {
-            return orders;
+            return null;
         }
         public Order GetOrderByID(int orderId)
         {

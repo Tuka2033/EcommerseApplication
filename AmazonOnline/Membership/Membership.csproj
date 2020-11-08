@@ -42,12 +42,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccountManager.cs" />
+    <Compile Include="customerRelationshipmanager.cs" />
+    <Compile Include="orderDeliveryManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{3dc686c0-5cea-49e9-9e4e-e84e49716527}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BOL\BOL.csproj">
+      <Project>{b4ab7b38-d061-4f41-b124-6f34f668c544}</Project>
+      <Name>BOL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CRM\CRM.csproj">
       <Project>{f13c156c-cac0-4e9b-87ae-30fcf7cd5145}</Project>
       <Name>CRM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Orderprocessing\Orderprocessing.csproj">
+      <Project>{38e5c652-fb2d-46f9-951e-177c81675172}</Project>
+      <Name>Orderprocessing</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

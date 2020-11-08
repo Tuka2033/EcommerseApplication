@@ -15,8 +15,10 @@ namespace CRM
         public string Fax { get; set; }
         public string State { get; set; }
         public string Zip { get; set; }
+        public string UserName { get; set; }
+        public string Password { get; set; }
         public Customer() { }
-        public Customer(int id,string firstName, string lastName,string email,string contactNumber, string fax, DateTime date,string address, string zip,string state)
+        public Customer(int id,string firstName, string lastName,string email,string contactNumber, string fax, DateTime date,string address, string zip,string state,string username,string password)
         {
             this.Id = id;
             this.Firstname = firstName;
@@ -28,6 +30,8 @@ namespace CRM
             this.Address = address;
             this.Zip = zip;
             this.State = state;
+            this.UserName = username;
+            this.Password = password;
         }
         public override string ToString()
         {

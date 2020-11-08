@@ -16,21 +16,9 @@ D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\StoreApp\obj\Debug\StoreAp
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\StoreApp\obj\Debug\StoreApp.exe
 D:\C-DAC Assignment\ASP .NET\ASP-DOT-NET\AmazonOnline\StoreApp\obj\Debug\StoreApp.pdb
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\StoreApp.exe.config
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\StoreApp.exe
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\StoreApp.pdb
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\Catalog.dll
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\Membership.dll
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\CRM.dll
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\Catalog.pdb
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\Membership.pdb
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\bin\Debug\CRM.pdb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.loginForm.resources
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.mainForm.resources
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.exe
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\StoreApp\obj\Debug\StoreApp.pdb

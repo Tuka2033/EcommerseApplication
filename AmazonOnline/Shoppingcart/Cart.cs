@@ -2,7 +2,7 @@
 
 namespace ShoppingCart
 {
-    class Cart
+   public class Cart
     {
 
         private List<Item> list = new List<Item>();

@@ -18,6 +18,6 @@
     <p> Quantity:@theProduct.Quantity</p>
 
     <hr />
-    <a href="">Add to Cart</a>
+    @Html.ActionLink("Add to Cart", "AddToCart", "ShoppingCart", new { id = @theProduct.Id }, null);
 
 }

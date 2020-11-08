@@ -13,5 +13,6 @@ namespace DAL
         bool insertCustomer(Customer theCustomer);
         bool updateCustomer(Customer theCustomer);
         bool deleteCustomer(int id);
+        bool Validate(string username, string password);
     }
 }

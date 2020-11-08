@@ -30,8 +30,9 @@ namespace OrderProcessing
 
         public List<Order> getOrders()
         {
-            List<Order> orderList = orderdelivermanager.getAll();
-            return orderList;
+            //List<Order> orderList = orderdelivermanager.getAll();
+            //return orderList;
+            return null;
         }
 
         public bool process(Order order)
@@ -47,6 +48,6 @@ namespace OrderProcessing
             return status;
         }
 
-       
+
     }
 }

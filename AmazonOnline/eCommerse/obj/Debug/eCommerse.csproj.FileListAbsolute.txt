@@ -1,3 +1,5 @@
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.csprojAssemblyReference.cache
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.csproj.CoreCompileInputs.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\eCommerse.dll.config
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\eCommerse.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\eCommerse.pdb
@@ -53,10 +55,13 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\b
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Antlr3.Runtime.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\BLL.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Catalog.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\CRM.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\DAL.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Microsoft.Web.Infrastructure.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Newtonsoft.Json.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Orderprocessing.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Shoppingcart.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\System.Net.Http.Formatting.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\System.Web.Helpers.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\System.Web.Http.dll
@@ -70,7 +75,10 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\b
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\WebGrease.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\BLL.pdb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Catalog.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\CRM.pdb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\DAL.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Orderprocessing.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Shoppingcart.pdb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Newtonsoft.Json.xml
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\System.Net.Http.Formatting.xml
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\System.Web.Helpers.xml
@@ -84,10 +92,10 @@ D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\b
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\System.Web.WebPages.Razor.xml
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Antlr3.Runtime.pdb
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.csprojAssemblyReference.cache
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.csproj.CoreCompileInputs.cache
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.csproj.CopyComplete
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.dll
 D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\obj\Debug\eCommerse.pdb
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\CRM.dll
-D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\CRM.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Membership.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\Membership.pdb
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\BOL.dll
+D:\CDACAssignment\ASPNET\ASPDOTNET\EcommerseApplication\AmazonOnline\eCommerse\bin\BOL.pdb

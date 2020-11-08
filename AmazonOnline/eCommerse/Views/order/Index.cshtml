@@ -1,0 +1,19 @@
+﻿@using OrderProcessing;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Orders</h2>
+<hr />
+@{ 
+    IEnumerable<Order> orders = ViewBag.Orders;
+    foreach(Order order in orders)
+    {
+        <span>@order.OrderID</span>
+        <span>@order.OrderDate</span>
+        <span>@order.CusomerId</span>
+        <span>@order.Amount</span><br />
+    }
+}
+
+
